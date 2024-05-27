@@ -1,0 +1,15 @@
+Testing Skills|
+1.Complete SQL
+2.ETL Tools (Informatica power center & Dags in gcp)
+3.Testcase Document preparation
+
+Types of testing
+1.Data Validation
+2.Data count testing from spurce to target
+3.Migration Testing
+4.Big data tetsing
+5.Data Quality Testing
+
+
+Secondary skills
+1.As a developer
